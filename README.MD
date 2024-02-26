@@ -1,6 +1,6 @@
 # Gemma Model with Hugging Face Transformers in TensorFlow
 
-![Alt text](https://cdn-thumbnails.huggingface.co/social-thumbnails/models/google/gemma-2b.png"Optional title")
+
 
 This project showcases the implementation and utilization of the Gemma Model, a 2 billion parameter base model, using the Hugging Face Transformers library within TensorFlow. Designed to demonstrate the power and flexibility of transformer models for natural language processing (NLP) tasks, this repository offers a comprehensive guide to using pre-trained models, custom model training, and inference with state-of-the-art architectures.
 
