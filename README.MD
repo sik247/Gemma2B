@@ -1,5 +1,7 @@
 # Gemma Model with Hugging Face Transformers in TensorFlow
 
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhuggingface.co%2Fgoogle%2Fgemma-2b&psig=AOvVaw3KUGkUQj01diDxp7C05YMH&ust=1709057309069000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDcheXMyYQDFQAAAAAdAAAAABAD"Optional title")
+
 This project showcases the implementation and utilization of the Gemma Model, a 2 billion parameter base model, using the Hugging Face Transformers library within TensorFlow. Designed to demonstrate the power and flexibility of transformer models for natural language processing (NLP) tasks, this repository offers a comprehensive guide to using pre-trained models, custom model training, and inference with state-of-the-art architectures.
 
 ## Features
@@ -17,3 +19,16 @@ To get started with this project, ensure you have TensorFlow and the Hugging Fac
 
 ```bash
 pip install tensorflow transformers
+
+Prerequisites
+Python 3.6+
+TensorFlow 2.x
+Hugging Face Transformers library
+Usage
+This repository contains Jupyter notebooks that guide you through the process of using the Hugging Face Transformers library for various NLP tasks with the Gemma Model. To use them, simply clone this repository and open the notebooks in Jupyter or your preferred environment that supports .ipynb files.
+
+Support and Contributions
+The Gemma Model project welcomes contributions and support from the community. If you have any questions, suggestions, or contributions, please open an issue or a pull request in this repository.
+
+License
+This project is open-source and available under the MIT license.
